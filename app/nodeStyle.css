@@ -1,0 +1,25 @@
+.custom-node {
+    font-size: 12px;
+    background: #eee;
+    border: 1px solid #555;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.react-flow__node-input{
+    border: none;
+    background-color: #22c55e;
+    color: white;
+}
+
+.react-flow__node-default{
+    border: none;
+    background-color: #3b82f6;
+    color: white;
+}
+
+.react-flow__node-output{
+    border: none;
+    background-color: #ef4444;
+    color: white;
+}
